@@ -1,0 +1,11 @@
+baseURL = "https://sisy.best/"
+languageCode = "en-us"
+title = "SISY Best - Awards & Top Experts"
+
+[params]
+  description = "The SISY 100 Awards celebrate the most inspiring women voices in tech and beyond. Nominate, vote, and discover the experts shaping industries worldwide."
+  tagline = "Celebrating the voices that inspire."
+  nominateURL = "#nominate"
+
+[markup.goldmark.renderer]
+  unsafe = true
